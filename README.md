@@ -1,0 +1,2 @@
+# speedhack_wizard101hook
+hook QueryPerformanceCounter
